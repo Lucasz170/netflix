@@ -1,0 +1,10 @@
+.espaco-superior{
+    margin-top: 50px;
+}
+body{
+    background-color: black;
+    margin-top: 20px;
+}
+#logo{
+    max-width: 200px;
+}
